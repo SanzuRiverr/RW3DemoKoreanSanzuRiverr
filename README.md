@@ -4,8 +4,12 @@ Rift Wizard 3 Demo 한국어 패치 — 삼도리버 (SanzuRiverr)
 
 설치
 1. Rift Wizard 3 Demo를 설치합니다.
-2. ZIP 안의 내용 RiftWizard3.exe, rl_data 폴더, README.txt를 데모 설치 폴더에 복사하고 덮어씁니다.
-3. 평소처럼 Steam에서 데모를 실행합니다. 한국어가 자동으로 선택됩니다.
+2. Demo용 번역 최신본을 다운로드 합니다.
+3. 번역 파일 내용을 모두 데모 설치 폴더에 복사하고 덮어씁니다.
+
+**주의**  게임이 완전히 종료된 상태에서 rl_data파일과 RiftWizard3.exe파일을 "덮어쓰기" 해야합니다.
+
+4. Steam에서 데모를 실행합니다. 한국어가 자동으로 선택됩니다.
 
 내용
 한국어 번역, 나눔고딕 Bold
